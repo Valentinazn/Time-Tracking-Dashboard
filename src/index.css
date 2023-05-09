@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(226, 43%, 10%);
+
+  display: flex;
+  padding-left: 165px;
+  padding-right: 165px;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  font-family: "Rubik", sans-serif;
+}
+
+:root {
+  font-family: "Rubik", sans-serif;
+}
+
+@media (max-width: 912px) {
+  body {
+    padding: 81px 24px 81px 24px;
+    display: block;
+  }
+}
