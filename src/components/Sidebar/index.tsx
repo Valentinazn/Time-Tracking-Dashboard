@@ -1,5 +1,5 @@
 import React from "react";
-import ImageProfile from "../../images/image-jeremy.png";
+import ImageProfile from "../../../public/images/image-jeremy.png";
 import { CardProfile } from "../CardProfile";
 import { Date } from "../../enum";
 
