@@ -1,4 +1,4 @@
-import IconEllipsis from "../../images/icon-ellipsis.svg";
+import IconEllipsis from "../../../public/images/icon-ellipsis.svg";
 
 interface ICard {
   img: string;
