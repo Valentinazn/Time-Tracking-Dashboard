@@ -28,7 +28,7 @@ Users should be able to:
 
 ## Link 💻
 
-- https://advice-generator-fm-vz.netlify.app
+- https://tracking-time-frontend-mentor-vz.netlify.app/
 
 
 ## Build with 👷‍♀️
