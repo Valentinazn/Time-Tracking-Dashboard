@@ -11,7 +11,7 @@ function Dashboard() {
 
   const getData = () => {
     return axios
-      .get("data.json")
+      .get("data.jso")
       .then((res) => setDate(res.data))
       .catch((err) => console.log(err));
   };
